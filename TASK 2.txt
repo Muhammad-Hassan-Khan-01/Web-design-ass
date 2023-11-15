@@ -1,0 +1,51 @@
+
+<html >
+  <head>
+    <title>Table</title>
+  </head>
+  <body>
+    <h1>3rd Semester Result</h1>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Subject</th>
+          <th>Marks</th>
+          <th>GPA</th>
+          <th>Grade</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Database system</td>
+          <td>85</td>
+          <td>4.00</td>
+          <td>A+</td>
+        </tr>
+        <tr>
+          <td>Probability And Statistics</td>
+          <td>86</td>
+          <td>4.00</td>
+          <td>A+</td>
+        </tr>
+        <tr>
+          <td>Differential Equation</td>
+          <td>97</td>
+          <td>4.00</td>
+          <td>A+</td>
+        </tr>
+        <tr>
+          <td>DlD</td>
+          <td>95</td>
+          <td>4.00</td>
+          <td>A+</td>
+        </tr>
+        <tr>
+          <td>Data Structure</td>
+          <td>88</td>
+          <td>4.00</td>
+          <td>A+</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
