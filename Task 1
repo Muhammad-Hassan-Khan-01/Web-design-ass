@@ -1,0 +1,44 @@
+<html>
+<head>
+    <title>TASK # 01 </title>
+</head>
+<body>
+    <h2>SEMESTER 1</h2>
+    <ul>
+        <li>Basic communication skills</li>
+        <li>Calculus</li>
+        <li>Introduction to CS</li>
+        <li>Islamic studies</li>
+        <li>Physics</li>
+        <li> PF</li>
+    </ul>
+    <h2>SEMESTER 2</h2>
+    <ul>
+        <li>Discrete mathematics</li>
+        <li>Effective Communication Skills</li>
+        <li>Multivariable Calculus</li>
+        <li>Pakistan Studies</li>
+        <li>Electronics 1</li>
+
+    </ul>
+
+    <h2>SEMESTER 3</h2>
+    <ul>
+        <li>Data Structures</li>
+        <li>Database</li>
+        <li>Differential Equations</li>
+        <li>DLD</li>
+        <li>Probability and Statistics</li>
+
+    </ul>
+    <h2>SEMESTER 4</h2>
+    <ul>
+        <li>Applied linear algebra</li>
+        <li>Data communication and networks</li>
+        <li>Design and analysis of algorithms</li>
+        <li>Microprocessor architecture and assembly language</li>
+        <li>Principkes of management</li>
+        <li>Software Engineering</li>
+
+    </ul>
+<html>
